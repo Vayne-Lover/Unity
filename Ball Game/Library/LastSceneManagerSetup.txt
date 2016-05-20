@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Unity Book/Disk/src/ch1/Assets/Main.unity
+  isLoaded: 1
+  isActive: 1
